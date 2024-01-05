@@ -1,0 +1,4 @@
+mkdir instagram-auto-reply
+cd instagram-auto-reply
+npm init -y
+npm install instagram-private-api
